@@ -1,1 +1,3 @@
-const x=5
+const x=6
+
+console.log("hi")
